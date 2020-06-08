@@ -1,0 +1,37 @@
+*
+{
+	margin: 0;
+	padding:0;
+	background:black;
+}
+.container ul
+{
+	justify-content: center;
+	width: 80%;
+	height: 100%;
+}
+li
+{
+	display: inline-block;
+	padding: 20px;
+}
+.snake
+{
+	text-decoration: none;
+	font-size: 50px;
+	color: white;
+}
+.snake::after
+{
+	content: '';
+	display: block;
+	width: 0;
+	height: 0.5vh;
+	background:white;
+	transition: width 2;
+}
+.snake:hover::after
+{
+	width: 100%;
+	transition: width 2s;
+}

@@ -1,0 +1,14 @@
+.nav-link, .dropdown-item
+{
+	text-decoration: none;
+	margin: 0px;
+	padding:0.5vw; 
+}
+.dropdown-toggle
+{
+	overflow: hidden;
+}
+.dropdown:hover>.dropdown-menu
+{
+	display: block;
+}
