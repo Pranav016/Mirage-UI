@@ -5,7 +5,7 @@
 -   [Background](Background)
 
     -   [Animate.css](Background/Animate.css)
-    -   [Animate on Scroll](Background/AnimateOnScroll)
+    -   [Animate on Scroll](Background/AnimateOnScroll(AOS))
     -   [Fake Loader](Background/FakeLoader)
     -   [Parallax](Background/Parallax)
     -   [Particle JS](Background/Particle)

@@ -8,7 +8,7 @@ Mirage-UI is a set of easily accessible, reusable, and composable design compone
 -   We promote the community to contribute their designs and take designs from the repository for their community or personal projects.
 -   Our moto `No Contribution is small` and we appreciate each and every contribution from all of you.
 
-## :scroll: Instructions to keep in mind while contributing -
+## :scroll: Instructions to follow while contributing -
 
 -   Make sure that with every design/ component should be added to a separate folder.
 -   Every folder should have its own `README.md` file where instructions to setup environment should be there and a demo video in the form of a gif should be added. You can host it on any website and insert the link in the README.md file to save space in the repository.
