@@ -2,6 +2,12 @@
 
 Mirage-UI is a set of easily accessible, reusable, and composable design components and animations that make it super easy to improve the user experience of your websites and applications.
 
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Join_ALPHAVIO_Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9SgPjvhqEj)
+
+</div>
+
 ## :octocat: Introduction -
 
 -   Mirage-UI is the next stop for all your design and animation needs.
@@ -22,9 +28,16 @@ Mirage-UI is a set of easily accessible, reusable, and composable design compone
 -   Whether you are adding an animation or a design component or any other code, **make sure to include all the additional scripts and CDN's within the file/ folder itself and the code must be extremely simple to understand such that it is immediately ready for use in some project.**
 -   Make sure to follow the [Code of Conduct](https://github.com/ALPHAVIO/WordNook/blob/master/CODE_OF_CONDUCT.md) and be respectful towards everyone while contributing to the project.
 
+## :sparkles: Components Library -
+
+-   [Angular](Angular)
+-   [React](React)
+-   [HTML+CSS+JS components](HTML+CSS+JS)
+-   [Vue](Vue)
+
 ## :triangular_flag_on_post: How to get started ?
 
-You can refer to the following articles on the basics of Git and Github and also contact the Project Mentors, in case you are stuck:
+You can refer to the following articles on the basics of Git and Github or contact the Project Maintainers in case of any query:
 
 -   [Forking a Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
 -   [Cloning a Repo](https://help.github.com/en/desktop/contributing-to-projects/creating-a-pull-request)
@@ -57,13 +70,6 @@ git clone https://github.com/<your_GitHub_username>/Mirage-UI.git
 ```
 
 -   Now open the project with the code/ text editor of choice.
-
-## :sparkles: Components Library -
-
--   [Angular](Angular)
--   [React](React)
--   [HTML+CSS+JS components](HTML+CSS+JS)
--   [Vue](Vue)
 
 #### Note -
 
