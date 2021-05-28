@@ -18,11 +18,17 @@ Mirage-UI is a set of easily accessible, reusable, and composable design compone
 
 -   Make sure that with every design/ component should be added to a separate folder.
 -   Every folder should have its own `README.md` file where instructions to setup environment should be there and a demo video in the form of a gif should be added. You can host it on any website and insert the link in the README.md file to save space in the repository.
-    -   Prefered hosting sites are:
-        -   [Imgur](https://imgur.com/)
-        -   [Gifyu](https://gifyu.com/?lang=en)
-        -   [Giphy](https://giphy.com/)
-        -   [Tenor](https://tenor.com/)
+
+    1. [Sample](<https://github.com/ALPHAVIO/Mirage-UI/blob/master/HTML+CSS+JS/Background/AnimateOnScroll(AOS)/README.md>) of how GIF is put in README
+    1. [Online Video to GIF converter](https://www.onlineconverter.com/video-to-gif)
+    1. [Quick & easy trick for hosting GIFs](https://youtu.be/6NtplFpCMBM) (for this GIF needs to be less than 10mb)
+    1. Some hosting sites:
+
+        - [Imgur](https://imgur.com/)
+        - [Gifyu](https://gifyu.com/?lang=en)
+        - [Giphy](https://giphy.com/)
+        - [Tenor](https://tenor.com/)
+
 -   Refer to the [README Template](README_TEMPLATE.md) to make the README for the component you add.
 -   Always update the table of contents in the parent folder where the new component is added.
 -   Whether you are adding an animation or a design component or any other code, **make sure to include all the additional scripts and CDN's within the file/ folder itself and the code must be extremely simple to understand such that it is immediately ready for use in some project.**
