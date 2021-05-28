@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feedback Form</title>
+    <link rel="stylesheet"
+        href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+        crossorigin="anonymous">
+    <link rel="stylesheet" href="./css/feedback_styles.css">
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+        integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w=="
+        crossorigin="anonymous" />
+</head>
+
+<body>
+    <section class="msger">
+        <form id="feedback-form">
+            <div class="container">
+                <div class="rating-wrap">
+                    <div class="btn-group-toggle" data-toggle="buttons">
+                        <p class="feedback-form-text">Was this helpful for
+                            you ?
+                        </p>
+                        <label class="btn btn-success">
+                            <input type="radio" name="feedback" value="yes">
+                            Yes
+                        </label>
+                        <label class="btn btn-danger">
+                            <input type="radio" name="feedback" value="no">
+                            No
+                        </label>
+                    </div><br>
+                    <div class="center">
+                        <p class="feedback-form-text">Star Rating</p>
+                        <fieldset class="rating">
+                            <input type="radio" id="star5" name="rating"
+                                value="5" /><label for="star5"
+                                class="full"></label>
+                            <input type="radio" id="star4" name="rating"
+                                value="4" /><label for="star4"
+                                class="full"></label>
+                            <input type="radio" id="star3" name="rating"
+                                value="3" /><label for="star3"
+                                class="full"></label>
+                            <input type="radio" id="star2" name="rating"
+                                value="2" /><label for="star2"
+                                class="full"></label>
+                            <input type="radio" id="star1" name="rating"
+                                value="1" /><label for="star1"
+                                class="full"></label>
+                        </fieldset>
+                    </div>
+                    <button class="btn btn-warning feedback-submit"
+                        type="submit">Submit</button>
+                </div>
+            </div>
+        </form>
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+            integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+            crossorigin="anonymous"></script>
+        <script
+            src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+            integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+            crossorigin="anonymous"></script>
+        <script
+            src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+            integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+            crossorigin="anonymous"></script>
+        <script
+            src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+        <script src="./js/feedback.js"></script>
+</body>
+
+</html>

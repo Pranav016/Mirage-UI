@@ -5,7 +5,7 @@
 -   [Background](Background)
 
     -   [Animate.css](Background/Animate.css)
-    -   [Animate on Scroll](Background/AnimateOnScroll(AOS))
+    -   [Animate on Scroll](<Background/AnimateOnScroll(AOS)>)
     -   [Fake Loader](Background/FakeLoader)
     -   [Parallax](Background/Parallax)
     -   [Particle JS](Background/Particle)
@@ -23,6 +23,7 @@
 
 -   [Forms](Forms)
 
+    -   [Star Rating System](Forms/StarRatingSystem)
     -   [Non-responsive Sliding Animation Form](Forms/Non-responsiveSlidingAnimationForm)
 
 -   [Navigation Bar](Navigation-Bar)
