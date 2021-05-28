@@ -1,6 +1,6 @@
 # :milky_way: Mirage-UI
 
-Mirage-UI is a set of easily accessible, reusable, and composable design components and animations that make it super easy to improve the user experience of your websites and applications.
+*Mirage-UI is a set of easily accessible, reusable, and composable design components and animations that make it super easy to improve the user experience of your websites and applications.*
 
 <div align="center">
 
@@ -8,11 +8,17 @@ Mirage-UI is a set of easily accessible, reusable, and composable design compone
 
 </div>
 
+*Any design on a website that you see and like, just take a screen recording and raise an issue [here](https://github.com/ALPHAVIO/Mirage-UI/issues). We'll get the design as a simple and reusable component for you to use.*
+
+<hr/>
+
 ## :octocat: Introduction -
 
 -   Mirage-UI is the next stop for all your design and animation needs.
 -   We promote the community to contribute their designs and take designs from the repository for their community or personal projects.
 -   Our moto `No Contribution is small` and we appreciate each and every contribution from all of you.
+
+<hr/>
 
 ## :scroll: Instructions to follow while contributing -
 
@@ -31,15 +37,19 @@ Mirage-UI is a set of easily accessible, reusable, and composable design compone
 
 -   Refer to the [README Template](README_TEMPLATE.md) to make the README for the component you add.
 -   Always update the table of contents in the parent folder where the new component is added.
--   Whether you are adding an animation or a design component or any other code, **make sure to include all the additional scripts and CDN's within the file/ folder itself and the code must be extremely simple to understand such that it is immediately ready for use in some project.**
--   Make sure to follow the [Code of Conduct](https://github.com/ALPHAVIO/WordNook/blob/master/CODE_OF_CONDUCT.md) and be respectful towards everyone while contributing to the project.
+-   Whether you are adding an animation or a design component or any other code, **make sure to include all the additional scripts and CDN's within the file/ folder itself and with addequate documentation as required. The code must be extremely simple to understand such that it is ready for immediate use in some project.**
+-   Make sure to follow the [Code of Conduct](https://github.com/ALPHAVIO/WordNook/blob/master/CODE_OF_CONDUCT.md) and be respectful towards others while contributing to the project.
 
-## :sparkles: Components Library -
+<hr/>
+
+## :sparkles: Table of Contents -
 
 -   [Angular](Angular)
 -   [React](React)
 -   [HTML+CSS+JS components](HTML+CSS+JS)
 -   [Vue](Vue)
+
+<hr/>
 
 ## :triangular_flag_on_post: How to get started ?
 
@@ -49,6 +59,8 @@ You can refer to the following articles on the basics of Git and Github or conta
 -   [Cloning a Repo](https://help.github.com/en/desktop/contributing-to-projects/creating-a-pull-request)
 -   [How to create a Pull Request](https://opensource.com/article/19/7/create-pull-request-github)
 -   [Getting started with Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
+
+<hr/>
 
 ## :beginner: Basic Environment Setup -
 
@@ -76,6 +88,8 @@ git clone https://github.com/<your_GitHub_username>/Mirage-UI.git
 ```
 
 -   Now open the project with the code/ text editor of choice.
+
+<hr/>
 
 #### Note -
 
