@@ -96,3 +96,9 @@ git clone https://github.com/<your_GitHub_username>/Mirage-UI.git
 #### Note -
 
 **All CDNs and additional scripts are already there in the repo so it is ready to use immediately after cloning.**
+
+<hr>
+
+## Stargazers over time 🌟
+
+[![Stargazers over time](https://starchart.cc/ALPHAVIO/Mirage-UI.svg)](https://starchart.cc/ALPHAVIO/Mirage-UI)
