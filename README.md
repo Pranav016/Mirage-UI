@@ -91,8 +91,6 @@ git clone https://github.com/<your_GitHub_username>/Mirage-UI.git
 
 -   Now open the project with the code/ text editor of choice.
 
-<hr/>
-
 #### Note -
 
 **All CDNs and additional scripts are already there in the repo so it is ready to use immediately after cloning.**
