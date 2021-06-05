@@ -95,4 +95,5 @@ git clone https://github.com/<your_GitHub_username>/Mirage-UI.git
 
 #### Note -
 
-**All CDNs and additional scripts are already there in the repo so it is ready to use immediately after cloning.**
+-   **All CDNs and additional scripts are already there in the repo so it is ready to use immediately after cloning.**
+-   **Please follow best code formatting and linting practices to assure good code quality. You should use tools such as Prettier or Eslint for thy purpose.**
