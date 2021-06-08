@@ -1,14 +1,12 @@
-*
-{
-	margin:0;
-	padding:0;
-	height:100vh;
+* {
+	margin: 0;
+	padding: 0;
+	height: 100vh;
 }
-#particles-js
-{
-	background-image: linear-gradient(to right,#209CEE,blue ,white);
-	background-color: red;
-	height:900px;
+#particles-js {
+	/* background-image: linear-gradient(to right,#209CEE,blue ,white); */
+	background-color: black;
+	height: 900px;
 	width: 100%;
-	background-size:cover;
+	background-size: cover;
 }

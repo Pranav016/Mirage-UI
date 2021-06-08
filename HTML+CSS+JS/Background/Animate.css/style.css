@@ -1,26 +1,26 @@
-*
-{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
 }
 /* div .container
 {
     margin: 0;
     padding: 0;
 } */
-.container
-{
-    background-image: url("office2.jpeg");
-    height: 100vh;
-    width: 100%;
-    background-size: cover;
+.container {
+	background-image: url('office2.jpeg');
+	height: 100vh;
+	width: 100%;
+	background-size: cover;
 }
-.animate__slideInLeft
-{
-    color:white;
-    font-size: 100px;
-    
-    margin-left: 50%;
-    transform: translate(-50%,0%);
+.container h1 {
+	color: blue;
+}
+.animate__slideInLeft {
+	color: white;
+	font-size: 100px;
+
+	margin-left: 50%;
+	transform: translate(-50%, 0%);
 }
