@@ -18,11 +18,14 @@ A clear and concise description of what you want to happen.
 ### Describe alternatives you've considered
 A clear and concise description of any alternative solutions or features you've considered.
 
-### Describe how this feature will be useful to our readers.
-A clear and concise description of how this feature will be useful for our other readers.
+### Describe how this feature will be useful to the users/ contributors-
+A clear and concise description of how this feature will be useful to our users/ contributors.
 
 ### Additional context
 Add any other context or screenshots about the feature request here.
+
+#### Are you contributing under any open-source program ?
+<!-- Mention LGM-SOC here if you are a participant of it, otherwise fill NA -->
 
 <hr/>
 
