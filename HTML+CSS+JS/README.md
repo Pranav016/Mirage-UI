@@ -16,6 +16,7 @@
     -   [Blue Background Out button animation](Buttons/BlueBackgroundOutButtonAnimation)
     -   [Snake Border Button Animation](Buttons/SnakeBorderButtonAnimation)
     -   [Snake Bottom Border on Hover](Buttons/SnakeBottomBorderOnHover)
+    -   [Scroll To Top Button](Buttons/scrollToTopButton)
 
 -   [Cards](Cards)
 
