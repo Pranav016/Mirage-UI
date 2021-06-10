@@ -1,37 +1,31 @@
-*
-{
+* {
 	margin: 0;
-	padding:0;
-	background:black;
+	padding: 0;
+	background: black;
 }
-.container ul
-{
+.container ul {
 	justify-content: center;
 	width: 80%;
 	height: 100%;
 }
-li
-{
+li {
 	display: inline-block;
 	padding: 20px;
 }
-.snake
-{
+.snake {
 	text-decoration: none;
 	font-size: 50px;
 	color: white;
 }
-.snake::after
-{
+.snake::after {
 	content: '';
 	display: block;
 	width: 0;
 	height: 0.5vh;
-	background:white;
-	transition: width 2;
+	background: white;
+	transition: width 1.5s;
 }
-.snake:hover::after
-{
+.snake:hover::after {
 	width: 100%;
-	transition: width 2s;
+	transition: width 1.5s;
 }
