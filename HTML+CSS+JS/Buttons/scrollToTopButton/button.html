@@ -14,22 +14,22 @@
       var button = document.getElementById("toTop");
       var rootElement = document.documentElement;
 
-      window.onscroll = function () { scrollFunction();};
+      window.onscroll = function () {
+        scrollFunction();
+      };
 
-      function scrollFunction() 
-      {
-        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) 
-        {
+      function scrollFunction() {
+        if (
+          document.body.scrollTop > 20 ||
+          document.documentElement.scrollTop > 20
+        ) {
           button.style.display = "block";
-        } 
-        else 
-        {
+        } else {
           button.style.display = "none";
         }
       }
 
-      function toTop() 
-      {
+      function toTop() {
         rootElement.scrollTo({
           top: 0,
           behavior: "smooth",
