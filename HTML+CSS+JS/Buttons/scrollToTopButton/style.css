@@ -22,7 +22,7 @@
   border-radius: 50%;
 }
 
-#main {
-  height: 500vh; /* To demonstrate scrolling feacture*/
-  background-color: burlywood;
+#main { /* To demonstrate scrolling feature || Remove this block when using in project*/ 
+    height: 500vh;
+    background-color:burlywood;
 }
