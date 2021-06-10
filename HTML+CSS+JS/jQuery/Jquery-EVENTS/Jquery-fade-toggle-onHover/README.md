@@ -1,9 +1,9 @@
-# Smooth Scroll
-This component smoothly scrolls the full page.
+# Jquery-fade-toggle-onHover
 
 ## Demo -
 
-![smooth-scroll](https://user-images.githubusercontent.com/54665036/121297679-51904080-c910-11eb-8571-dd0516408731.gif)
+![Jquery-fade-toggle-onHover](https://user-images.githubusercontent.com/54665036/121496564-3567ce80-c9f8-11eb-9499-38b116227de1.gif)
+
 
 ## Setup instructions
 
