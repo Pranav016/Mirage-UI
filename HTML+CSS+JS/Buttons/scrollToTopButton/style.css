@@ -1,0 +1,28 @@
+#toTop {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px; 
+  z-index: 1; 
+  border: none;
+  outline: none; 
+  background-color: #0d97ac;
+  color: white; 
+  cursor: pointer; 
+  padding: 10px; 
+  border-radius: 10px;
+  font-size:25px;
+  height: 45px;
+  width: 45px;
+  transition: 00.2s;
+}
+
+#toTop:hover {
+  background-color: #e2532f;
+  border-radius: 50%;
+}
+
+#main {
+    height: 500vh; /* To demonstrate scrolling feacture*/ 
+    background-color:burlywood;
+}
