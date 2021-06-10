@@ -1,19 +1,13 @@
 # Responsive Vertical Timeline
 
-An easy to customize, responsive timeline.
+## Demo -
 
-[Article on CodyHouse](https://codyhouse.co/gem/vertical-timeline)
+![Responsive-Vertical-Timeline](https://user-images.githubusercontent.com/54665036/121496942-9099c100-c9f8-11eb-8dbd-d3b52feaf73b.gif)
 
-[Demo](https://codyhouse.co/demo/vertical-timeline)
- 
-[License](https://codyhouse.co/license)
+## Setup instructions
 
-⚠️ A new version of this Experiment is available in our [Components Library](https://codyhouse.co/ds/components/app/vertical-timeline).
+Ready to use.
 
-## Dependencies
+## Author(s)
 
-This experiment is built upon the [CodyHouse Framework](https://github.com/CodyHouse/codyhouse-framework).
-
-## Credits
-
-Icons: [Nucleo Library](https://nucleoapp.com/)
+[Pranav016](https://github.com/Pranav016)

@@ -25,6 +25,9 @@ If applicable, add screenshots to help explain your problem.
 ### **Additional context**
 Add any other context about the problem here.
 
+#### Are you contributing under any open-source program ?
+<!-- Mention LGM-SOC here if you are a participant of it, otherwise fill NA -->
+
 <hr/>
 
 <!--- Do not remove or change this in the issue description. Only update the details above this. --->
