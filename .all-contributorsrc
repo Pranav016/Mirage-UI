@@ -23,6 +23,15 @@
         "code",
         "doc"
       ]
+    },
+    {
+      "login": "akshatvirmani",
+      "name": "Akshat Virmani",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77536248?v=4",
+      "profile": "https://github.com/akshatvirmani",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
