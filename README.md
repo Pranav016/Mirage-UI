@@ -31,7 +31,8 @@ _Any design on a website that you see and like, just take a screen recording and
     1. [Sample](https://github.com/ALPHAVIO/Mirage-UI/tree/master/HTML%2BCSS%2BJS/Forms/StarRatingSystem/README.md) of how GIF is put in README
     1. [Online Video to GIF converter](https://www.onlineconverter.com/video-to-gif)
     1. [Quick & easy trick for hosting GIFs](https://youtu.be/6NtplFpCMBM) (for this GIF needs to be less than 10mb)
-    1. Some hosting sites:
+    1. [GIF optimizer](https://ezgif.com/optimize) in case you are using this trick ^ to host GIFs and it is more than 10mb.
+    1. Some hosting sites: (if needed)
 
         - [Imgur](https://imgur.com/)
         - [Gifyu](https://gifyu.com/?lang=en)
