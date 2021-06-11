@@ -1,9 +1,19 @@
 # :milky_way: Mirage-UI
+
+<div align="center">
+
+## About-
+
+![Forks](https://img.shields.io/github/forks/ALPHAVIO/Mirage-UI?style=social) ![Stars](https://img.shields.io/github/stars/ALPHAVIO/Mirage-UI?style=social) [![GitHub issues](https://img.shields.io/github/issues/ALPHAVIO/Mirage-UI?color=green&logo=github&style=flat)](https://github.com/ALPHAVIO/Mirage-UI/issues) [![GitHub PRs](https://img.shields.io/github/issues-pr/ALPHAVIO/Mirage-UI?style=flat&logo=github)](https://github.com/ALPHAVIO/Mirage-UI/pulls) ![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=ALPHAVIO/Mirage-UI)  
+
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-_Mirage-UI is a set of easily accessible, reusable, and composable design components and animations that make it super easy to improve the user experience of your websites and applications._
+</div>
+
+- _Mirage-UI is a set of easily accessible, reusable, and composable design components and animations that make it super easy to improve the user experience of your websites and applications._
 
 <div align="center">
 
@@ -11,7 +21,7 @@ _Mirage-UI is a set of easily accessible, reusable, and composable design compon
 
 </div>
 
-_Any design on a website that you see and like, just take a screen recording and raise an issue [here](https://github.com/ALPHAVIO/Mirage-UI/issues). We'll get the design as a simple and reusable component for you to use._
+- _Any design on a website that you see and like, just take a screen recording and raise an issue [here](https://github.com/ALPHAVIO/Mirage-UI/issues). We'll get the design as a simple and reusable component for you to use._
 
 <hr/>
 
