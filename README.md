@@ -1,6 +1,6 @@
 # :milky_way: Mirage-UI
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 _Mirage-UI is a set of easily accessible, reusable, and composable design components and animations that make it super easy to improve the user experience of your websites and applications._
@@ -117,6 +117,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://mayankmohak.github.io/portfolio/"><img src="https://avatars.githubusercontent.com/u/63801800?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mayank Mohak</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=mayankmohak" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/Anupam-Panwar"><img src="https://avatars.githubusercontent.com/u/65714751?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anupam Panwar</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=Anupam-Panwar" title="Code">💻</a> <a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=Anupam-Panwar" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/akshatvirmani"><img src="https://avatars.githubusercontent.com/u/77536248?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Akshat Virmani</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=akshatvirmani" title="Documentation">📖</a></td>
   </tr>
 </table>
 
