@@ -69,9 +69,7 @@ reporter of any incident.
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.0, available at
-https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+This Code of Conduct is adapted from the [Contributor Covenant][homepage].
 
 Community Impact Guidelines were inspired by [Mozilla's code of conduct
 enforcement ladder](https://github.com/mozilla/diversity).
@@ -79,4 +77,4 @@ enforcement ladder](https://github.com/mozilla/diversity).
 [homepage]: https://www.contributor-covenant.org
 
 For answers to common questions about this code of conduct, see the FAQ at
-https://www.contributor-covenant.org/faq. 
+[Contributor Covenant FAQ](https://www.contributor-covenant.org/faq). 
