@@ -22,7 +22,23 @@
   border-radius: 50%;
 }
 
-#main { /* To demonstrate scrolling feature || Remove this block when using in project*/ 
-    height: 500vh;
-    background-color:burlywood;
+#one {
+  /* To demonstrate scrolling feature || Remove this block when using in project*/
+  height: 100vh;
+  background-color: burlywood;
+}
+#two {
+  /* To demonstrate scrolling feature || Remove this block when using in project*/
+  height: 100vh;
+  background-color: aqua;
+}
+#three {
+  /* To demonstrate scrolling feature || Remove this block when using in project*/
+  height: 100vh;
+  background-color: blue;
+}
+#four {
+  /* To demonstrate scrolling feature || Remove this block when using in project*/
+  height: 100vh;
+  background-color: crimson;
 }
