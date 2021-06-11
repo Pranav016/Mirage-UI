@@ -116,7 +116,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://mayankmohak.github.io/portfolio/"><img src="https://avatars.githubusercontent.com/u/63801800?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mayank Mohak</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=mayankmohak" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/Anupam-Panwar"><img src="https://avatars.githubusercontent.com/u/65714751?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anupam Panwar</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=Anupam-Panwar" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Anupam-Panwar"><img src="https://avatars.githubusercontent.com/u/65714751?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anupam Panwar</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=Anupam-Panwar" title="Code">💻</a> <a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=Anupam-Panwar" title="Documentation">📖</a></td>
   </tr>
 </table>
 
