@@ -11,17 +11,19 @@ Below you will find the process and workflow used to review and merge your chang
 - If you want to add or change a major feature, create an issue and discuss with the maintainer what you would like to change.
 - If you want to work on an Existing Issues or an Issue that you created, check if anyone is working on that issue.
 - If no one is working on the issue, just comment and start working on it otherwise wait for the Issue to be assigned to you.
-![IssuesDemo](https://user-images.githubusercontent.com/65714751/121721719-2cfbba80-cb02-11eb-8fe7-000777f18419.jpg)
+![IssuesDemo](https://user-images.githubusercontent.com/65714751/121729135-bf548c00-cb0b-11eb-85d4-435cf28289ff.png)
+
 
 
 ## Step 1 : Fork the Project  
 - Fork this Repository. This will create a Local Copy of this Repository on your Github Profile. Keep a reference to the original project in `upstream` remote.  
 ```  
 $ git clone https://github.com/<your-username>/<repo-name>  
-$ cd BlogSite
-$ git remote add upstream https://github.com/ALPHAVIO/BlogSite
+$ cd Mirage-UI
+$ git remote add upstream https://github.com/ALPHAVIO/Mirage-UI
 ```  
-![ForkDemo](https://user-images.githubusercontent.com/65714751/121721730-32f19b80-cb02-11eb-84b6-a844e11da227.jpg)
+![ForkDemo](https://user-images.githubusercontent.com/65714751/121729332-fa56bf80-cb0b-11eb-872e-5f0c68ef5d12.png)
+
 
 
 - If you have already forked the project, update your copy before working.  
@@ -95,7 +97,8 @@ $ git commit -m "message"
 $ git push -u origin Branch_Name  
 ```  
 - Here is how your branch will look in the fork.
-![BranchDemo](https://user-images.githubusercontent.com/65714751/121721814-4ac91f80-cb02-11eb-9ed6-ba1330a44f69.jpg)
+![BranchDemo](https://user-images.githubusercontent.com/65714751/121729444-1e1a0580-cb0c-11eb-8ff5-d0dd439bbc9b.png)
+
 
 ## Step 8 : Pull Request  
 - Go to your repository in browser and click on compare and pull requests. Then add a title and description to your pull request that explains your contribution.  
@@ -146,7 +149,7 @@ Pull requests are the best way to propose changes to the codebase (we use [Githu
 ## Any contributions you make will be under the MIT Software License
 In short, when you submit code changes, your submissions are understood to be under the same [MIT License](http://choosealicense.com/licenses/mit/) that covers the project. Feel free to contact the maintainers if that's a concern.
 
-## Report bugs using Github's [issues](https://github.com/ALPHAVIO/BlogSite/issues)
+## Report bugs using Github's [issues](https://github.com/ALPHAVIO/Mirage-UI/issues)
 We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue) it's that easy!
 
 ## Write bug reports with detail, background, and sample code
