@@ -68,20 +68,16 @@ $ git add .
 $ git add <file name>
 ```
 ## Step 5 : Lint Your Code  
-- To check for any linting errors, run command:
+- To check and fix any linting errors, run command:
 ```
-npm run lint-check
-```
-- To fix linting errors, run command:
-```
-npm run lint
+eslint --fix
 ```
 - If some files have changed by above command, you have to repeat Step 4
 - Note : If you get error "eslint is not recognised", then you have to install eslint by using following command
 ```
 npm install -g eslint 
 ```
-
+- Refer [eslint docs](https://eslint.org/docs/user-guide/getting-started) for more linting options
 ## Step 6 : Commit  
 - To commit give a descriptive message for the convenience of reviewer by:  
 ```
@@ -170,8 +166,7 @@ People *love* thorough bug reports. I'm not even kidding.
 ## Use a Consistent Coding Style
 I'm again borrowing these from [Facebook's Guidelines](https://github.com/facebook/draft-js/blob/a9316a723f9e918afde44dea68b5f9f39b7d9b00/CONTRIBUTING.md)
 
-* 2 spaces for indentation rather than tabs
-* You can try running `npm run lint` for style unification
+* Use [Prettier style guide](https://prettier.io/docs/en/index.html) for style unification
 
 ## License
 By contributing, you agree that your contributions will be licensed under its MIT License.
