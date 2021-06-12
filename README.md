@@ -1,9 +1,19 @@
+<div align="center">
+
 # :milky_way: Mirage-UI
+
+## About-
+
+![Forks](https://img.shields.io/github/forks/ALPHAVIO/Mirage-UI?style=social) ![Stars](https://img.shields.io/github/stars/ALPHAVIO/Mirage-UI?style=social) [![GitHub issues](https://img.shields.io/github/issues/ALPHAVIO/Mirage-UI?color=green&logo=github&style=flat)](https://github.com/ALPHAVIO/Mirage-UI/issues) [![GitHub PRs](https://img.shields.io/github/issues-pr/ALPHAVIO/Mirage-UI?style=flat&logo=github)](https://github.com/ALPHAVIO/Mirage-UI/pulls) ![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=ALPHAVIO/Mirage-UI)  
+
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-_Mirage-UI is a set of easily accessible, reusable, and composable design components and animations that make it super easy to improve the user experience of your websites and applications._
+</div>
+
+- _Mirage-UI is a set of easily accessible, reusable, and composable design components and animations that make it super easy to improve the user experience of your websites and applications._
 
 <div align="center">
 
@@ -11,7 +21,7 @@ _Mirage-UI is a set of easily accessible, reusable, and composable design compon
 
 </div>
 
-_Any design on a website that you see and like, just take a screen recording and raise an issue [here](https://github.com/ALPHAVIO/Mirage-UI/issues). We'll get the design as a simple and reusable component for you to use._
+- _Any design on a website that you see and like, just take a screen recording and raise an issue [here](https://github.com/ALPHAVIO/Mirage-UI/issues). We'll get the design as a simple and reusable component for you to use._
 
 <hr/>
 
@@ -102,9 +112,12 @@ git clone https://github.com/<your_GitHub_username>/Mirage-UI.git
 
 <hr>
 
-## Stargazers over time 🌟
-
-[![Stargazers over time](https://starchart.cc/ALPHAVIO/Mirage-UI.svg)](https://starchart.cc/ALPHAVIO/Mirage-UI)
+## Maintainers ✨
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Pranav016"><img src="https://avatars.githubusercontent.com/u/54665036?s=460&u=1bff30cf96a1502a7abd09755f179197007bc345&v=4" width="100px;" alt=""/><br /><sub><b>Pranav Mendiratta</b></sub></a><br /><a href="https://github.com/ALPHAVIO/WordNook/commits?author=Pranav016" title="Code">💻</a><a href="https://github.com/ALPHAVIO/WordNook/commits?author=Pranav016" title="Documentation">📖</a> <a href="https://github.com/ALPHAVIO/WordNook/commits?author=Pranav016" title="Maintenance">🚧</a></td>
+  </tr>
+</table>
 
 ## Contributors ✨
 
@@ -118,6 +131,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://mayankmohak.github.io/portfolio/"><img src="https://avatars.githubusercontent.com/u/63801800?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mayank Mohak</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=mayankmohak" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/Anupam-Panwar"><img src="https://avatars.githubusercontent.com/u/65714751?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anupam Panwar</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=Anupam-Panwar" title="Code">💻</a> <a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=Anupam-Panwar" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/akshatvirmani"><img src="https://avatars.githubusercontent.com/u/77536248?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Akshat Virmani</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=akshatvirmani" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://www.hackerrank.com/starrohan999"><img src="https://avatars.githubusercontent.com/u/71714344?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rohan Kumar</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=starrohan999" title="Code">💻</a> <a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=starrohan999" title="Documentation">📖</a></td>
   </tr>
 </table>
 
@@ -127,3 +141,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+<hr>
+
+## Stargazers over time 🌟
+
+[![Stargazers over time](https://starchart.cc/ALPHAVIO/Mirage-UI.svg)](https://starchart.cc/ALPHAVIO/Mirage-UI)
