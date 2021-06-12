@@ -1,6 +1,6 @@
-# :milky_way: Mirage-UI
-
 <div align="center">
+
+# :milky_way: Mirage-UI
 
 ## About-
 
@@ -112,9 +112,12 @@ git clone https://github.com/<your_GitHub_username>/Mirage-UI.git
 
 <hr>
 
-## Stargazers over time 🌟
-
-[![Stargazers over time](https://starchart.cc/ALPHAVIO/Mirage-UI.svg)](https://starchart.cc/ALPHAVIO/Mirage-UI)
+## Maintainers ✨
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Pranav016"><img src="https://avatars.githubusercontent.com/u/54665036?s=460&u=1bff30cf96a1502a7abd09755f179197007bc345&v=4" width="100px;" alt=""/><br /><sub><b>Pranav Mendiratta</b></sub></a><br /><a href="https://github.com/ALPHAVIO/WordNook/commits?author=Pranav016" title="Code">💻</a><a href="https://github.com/ALPHAVIO/WordNook/commits?author=Pranav016" title="Documentation">📖</a> <a href="https://github.com/ALPHAVIO/WordNook/commits?author=Pranav016" title="Maintenance">🚧</a></td>
+  </tr>
+</table>
 
 ## Contributors ✨
 
@@ -137,3 +140,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+<hr>
+
+## Stargazers over time 🌟
+
+[![Stargazers over time](https://starchart.cc/ALPHAVIO/Mirage-UI.svg)](https://starchart.cc/ALPHAVIO/Mirage-UI)
