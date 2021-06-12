@@ -8,7 +8,7 @@
 
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 </div>
@@ -131,6 +131,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://mayankmohak.github.io/portfolio/"><img src="https://avatars.githubusercontent.com/u/63801800?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mayank Mohak</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=mayankmohak" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/Anupam-Panwar"><img src="https://avatars.githubusercontent.com/u/65714751?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anupam Panwar</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=Anupam-Panwar" title="Code">💻</a> <a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=Anupam-Panwar" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/akshatvirmani"><img src="https://avatars.githubusercontent.com/u/77536248?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Akshat Virmani</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=akshatvirmani" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://www.hackerrank.com/starrohan999"><img src="https://avatars.githubusercontent.com/u/71714344?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rohan Kumar</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=starrohan999" title="Code">💻</a></td>
   </tr>
 </table>
 
