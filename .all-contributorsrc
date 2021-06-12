@@ -32,6 +32,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "starrohan999",
+      "name": "Rohan Kumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71714344?v=4",
+      "profile": "https://www.hackerrank.com/starrohan999",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
