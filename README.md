@@ -148,13 +148,12 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ## Code of Conduct
 <p align="center">
 <a href="https://github.com/ALPHAVIO/Mirage-UI/blob/master/CODE_OF_CONDUCT.md">
-<img width=35% src="https://cdn-media-1.freecodecamp.org/images/1*v4jyaugHQXBSf2O4D66Onw.gif"></p>
+</p>
 <h5 align="center"><b>Click to read</b></a>  
 
 ## License 
 <p align="center">
-<a href="https://github.com/ALPHAVIO/Mirage-UI/blob/master/LICENSE">
-<img width=35% src="https://media.tenor.com/images/68ecdcb63296f1db6532bf5b83051da9/tenor.gif"></p>
+<a href="https://github.com/ALPHAVIO/Mirage-UI/blob/master/LICENSE"></p>
 <h5 align="center"><b>MIT License</b></a> 
 
 
