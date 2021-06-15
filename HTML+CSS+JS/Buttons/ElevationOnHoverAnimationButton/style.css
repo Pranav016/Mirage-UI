@@ -34,7 +34,7 @@ body {
   border: 2px black solid;
   background-color: #ffffff;
   transition: transform 500ms ease-in-out 25ms;
-  font-family: 'Anton', sans-serif;
+  font-family: "Anton", sans-serif;
   font-size: 30px;
   letter-spacing: 2px;
 }
@@ -42,5 +42,3 @@ body {
 .btn:hover {
   transform: translateX(10px) translateY(-10px);
 }
-
-
