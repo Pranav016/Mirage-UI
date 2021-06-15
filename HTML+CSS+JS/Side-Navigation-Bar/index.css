@@ -18,7 +18,7 @@
   height: 100vh;
   background-color: blueviolet;
 }
-.nav-item:hover{
-    background-color: rgba(0, 195, 255, 0.74);
-    border-radius: 5px;
+.nav-item:hover {
+  background-color: rgba(0, 195, 255, 0.74);
+  border-radius: 5px;
 }
