@@ -144,6 +144,19 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 <hr>
 
+
+## Code of Conduct
+<p align="center">
+<a href="https://github.com/ALPHAVIO/Mirage-UI/blob/master/CODE_OF_CONDUCT.md">
+</p>
+<h5 align="center"><b>Click to read</b></a>  
+
+## License 
+<p align="center">
+<a href="https://github.com/ALPHAVIO/Mirage-UI/blob/master/LICENSE"></p>
+<h5 align="center"><b>MIT License</b></a> 
+
+
 ## Stargazers over time 🌟
 
 [![Stargazers over time](https://starchart.cc/ALPHAVIO/Mirage-UI.svg)](https://starchart.cc/ALPHAVIO/Mirage-UI)
