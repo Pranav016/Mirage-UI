@@ -17,6 +17,7 @@
     -   [Snake Border Button Animation](Buttons/SnakeBorderButtonAnimation)
     -   [Snake Bottom Border on Hover](Buttons/SnakeBottomBorderOnHover)
     -   [Scroll To Top Button](Buttons/scrollToTopButton)
+    -   [Elevation on Hover Button](Buttons/ElevationOnHoverAnimationButton)
 
 -   [Cards](Cards)
 
