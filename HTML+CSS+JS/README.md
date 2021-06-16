@@ -32,6 +32,7 @@
 -   [Navigation Bar](Navigation-Bar)
 
     -   [Responsive Bootstrap Navbar](Navigation-Bar/ResponsiveBootstrapNavbar)
+    -   [Side Navigation Bar](Side-Navigation-Bar/)
 
 -   [Text Animations](Text-Animations)
 
