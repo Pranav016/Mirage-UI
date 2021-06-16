@@ -50,7 +50,6 @@ _Any design on a website that you see and like, just take a screen recording and
 
 <hr/>
 
- 
 ## :sparkles: Table of Contents -
 
 -   [Angular](Angular)
@@ -108,6 +107,3 @@ git clone https://github.com/<your_GitHub_username>/Mirage-UI.git
 ## Stargazers over time 🌟
 
 [![Stargazers over time](https://starchart.cc/ALPHAVIO/Mirage-UI.svg)](https://starchart.cc/ALPHAVIO/Mirage-UI)
-
-
-
