@@ -18,6 +18,7 @@
     -   [Snake Bottom Border on Hover](Buttons/SnakeBottomBorderOnHover)
     -   [Scroll To Top Button](Buttons/scrollToTopButton)
     -   [Elevation on Hover Button](Buttons/ElevationOnHoverAnimationButton)
+    -   [Neumorphic Style Button](Buttons/NeumorphicStyleButton)
 
 -   [Cards](Cards)
 
