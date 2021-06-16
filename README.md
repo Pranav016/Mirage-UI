@@ -20,6 +20,12 @@ _Any design on a website that you see and like, just take a screen recording and
 
 <hr/>
 
+## 🛠️ Technology Stack -
+
+<img alt="HTML" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>  <img alt="Javascript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="Angular" src="https://img.shields.io/badge/angular%20-%23E34F26.svg?&style=for-the-badge&logo=angular&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Vue" src="https://img.shields.io/badge/vue%20-%2320232a.svg?&style=for-the-badge&logo=vue&logoColor=white"/>
+
+<hr/>
+
 ## :scroll: Instructions to follow while contributing -
 
 -   Make sure that with every design/ component should be added to a separate folder.
@@ -44,6 +50,7 @@ _Any design on a website that you see and like, just take a screen recording and
 
 <hr/>
 
+ 
 ## :sparkles: Table of Contents -
 
 -   [Angular](Angular)
@@ -101,3 +108,6 @@ git clone https://github.com/<your_GitHub_username>/Mirage-UI.git
 ## Stargazers over time 🌟
 
 [![Stargazers over time](https://starchart.cc/ALPHAVIO/Mirage-UI.svg)](https://starchart.cc/ALPHAVIO/Mirage-UI)
+
+
+
