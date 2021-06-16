@@ -27,6 +27,7 @@
 -   [Cards](Cards)
 
     -   [Card Image Zoom on hover animation](Cards/CardImageZoomAnimation)
+        [Card Pop Up Animation On Hover](Cards/cardPopuponhover)
 
 -   [Forms](Forms)
 
