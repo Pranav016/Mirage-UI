@@ -1,4 +1,4 @@
-@import 'https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300';
+@import "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300";
 
 html,
 body {
@@ -9,7 +9,7 @@ body {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
-  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: "Open Sans Condensed", sans-serif;
   justify-content: center;
   align-items: center;
   background: #111;
@@ -17,14 +17,15 @@ body {
 
 div {
   height: 100%;
-  width: 100%; 
+  width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-.box-1 { background-color: #4e4f7a; }
-
+.box-1 {
+  background-color: #4e4f7a;
+}
 
 .btn {
   line-height: 50px;
@@ -35,7 +36,7 @@ div {
 }
 
 .btn-one {
-  color: #FFF;
+  color: #fff;
   transition: all 0.3s;
   position: relative;
 }
@@ -45,7 +46,7 @@ div {
   letter-spacing: 2px;
 }
 .btn-one::before {
-  content: '';
+  content: "";
   position: absolute;
   bottom: 0;
   left: 0;
@@ -58,19 +59,19 @@ div {
   border-bottom-width: 1px;
   border-top-style: solid;
   border-bottom-style: solid;
-  border-top-color: rgba(255,255,255,0.5);
-  border-bottom-color: rgba(255,255,255,0.5);
+  border-top-color: rgba(255, 255, 255, 0.5);
+  border-bottom-color: rgba(255, 255, 255, 0.5);
   transform: scale(0.1, 1);
 }
 .btn-one:hover span {
   letter-spacing: 2px;
 }
 .btn-one:hover::before {
-  opacity: 1; 
-  transform: scale(1, 1); 
+  opacity: 1;
+  transform: scale(1, 1);
 }
 .btn-one::after {
-  content: '';
+  content: "";
   position: absolute;
   bottom: 0;
   left: 0;
@@ -78,10 +79,9 @@ div {
   height: 100%;
   z-index: 1;
   transition: all 0.3s;
-  background-color: rgba(255,255,255,0.1);
+  background-color: rgba(255, 255, 255, 0.1);
 }
 .btn-one:hover::after {
-  opacity: 0; 
+  opacity: 0;
   transform: scale(0.1, 1);
 }
-

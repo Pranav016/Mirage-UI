@@ -1,29 +1,24 @@
 /* Features for button 2*/
 
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,400;1,100&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,400;1,100&display=swap");
 
 * {
   margin: 0;
   padding: 0;
-  font-family: 'Poppins',sans-serif;
+  font-family: "Poppins", sans-serif;
   box-sizing: border-box;
-
 }
 
-body
-{
+body {
   display: flex;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
   flex-direction: column;
   background: #111;
-  
-  
 }
 
-.btn
-{
+.btn {
   position: relative;
   padding: 20px 40px;
   border: 2px solid #41f321;
@@ -39,35 +34,23 @@ body
   height: 70px;
 }
 
-.btn:hover
-{
+.btn:hover {
   color: #111;
 }
 
-.btn span
-{
+.btn span {
   position: absolute;
   display: block;
   width: 0px;
-  height: 0px ;
-  transform: translate(-50%,-50%);
+  height: 0px;
+  transform: translate(-50%, -50%);
   border-radius: 50%;
   background: #41f321;
   transition: width 0.5s, height 0.5s;
   z-index: -1;
 }
 
-.btn:hover span
-{
+.btn:hover span {
   width: 400px;
   height: 300px;
 }
-
-
-
-
-
-
-
-
-
