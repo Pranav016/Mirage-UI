@@ -4,7 +4,7 @@ Motion backkground component that can be used for any required page as per our w
 
 *Demo*
 
-https://user-images.githubusercontent.com/66902249/121811829-395b5100-cc83-11eb-93fc-8ee051550c03.mp4
+[Demo](https://user-images.githubusercontent.com/66902249/121811829-395b5100-cc83-11eb-93fc-8ee051550c03.mp4)
 
 Check README.md for sources to host your gif.
 
