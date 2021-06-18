@@ -1,11 +1,9 @@
 <div align="center">
  
-# GIF for Task:
+# Demo GIF for component:
 
 
-
-
-https://user-images.githubusercontent.com/84903641/122440903-a4c25d00-cfba-11eb-99a4-ff38a37e6000.mp4
+[Demo](https://user-images.githubusercontent.com/84903641/122440903-a4c25d00-cfba-11eb-99a4-ff38a37e6000.mp4)
 
  
 # Author
