@@ -1,8 +1,11 @@
 
-# GIF for Task:
+# Demo GIF of the component:
 
-<img align="center" height="500" width="900" src="https://media.giphy.com/media/InNs51UoFQ5nS3gIXu/giphy.gif">
+<div align="center">
 
+<img height="500" width="900" src="https://media.giphy.com/media/InNs51UoFQ5nS3gIXu/giphy.gif">
+
+</div>
 
 # Author
 

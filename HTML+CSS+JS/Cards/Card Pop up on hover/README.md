@@ -1,11 +1,6 @@
 <div align="center">
  
-# GIF for Task:
-
-
-<img align="center" height="500" width="800" src="https://media.giphy.com/media/9pKgy1jRHMxB06OEux/giphy.gif">
-
-
+# Demo GIF for component:
 
 <img height="500" width="800" src="https://media.giphy.com/media/9pKgy1jRHMxB06OEux/giphy.gif">
  

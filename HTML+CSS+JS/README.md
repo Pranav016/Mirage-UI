@@ -28,8 +28,10 @@
 -   [Cards](Cards)
 
     -   [Card Image Zoom on hover animation](Cards/CardImageZoomAnimation)
-    -   [Carousel](Cards/Carouselcomponent)
     -   [Card Pop Up Animation On Hover](Cards/cardPopuponhover)
+
+-   [Carousels](Carousel)
+    -   [Card Carousel Component](Carousel/CardCarousel)
 
 -   [Forms](Forms)
 
@@ -49,6 +51,5 @@
 -   [Timelines](Timelines)
 
     -   [Vertical Timeline](Timelines/VerticalTimeline)
-
-     [Reading Progress Bar](ReadingProgressBar)
+    -   [Reading Progress Bar](ReadingProgressBar)
      
