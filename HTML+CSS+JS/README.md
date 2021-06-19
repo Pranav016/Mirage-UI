@@ -33,6 +33,9 @@
 -   [Carousels](Carousel)
     -   [Card Carousel Component](Carousel/CardCarousel)
 
+-   [Scrollspy](Scrollspy)
+    -   [Scrollspy](Scrollspy)
+    
 -   [Forms](Forms)
 
     -   [Star Rating System](Forms/StarRatingSystem)
