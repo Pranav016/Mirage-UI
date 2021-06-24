@@ -5,11 +5,9 @@
 -   [Background](Background)
 
     -   [Animate.css](Background/Animate.css)
-    -   [Animate on Scroll](<Background/AnimateOnScroll(AOS)>)
     -   [Fake Loader](Background/FakeLoader)
     -   [Parallax](Background/Parallax)
     -   [Particle JS](Background/Particle)
-    -   [Smooth Scroll](Background/SmoothScroll)
     -   [Leaves Motion Background Effect](Background/LeavesMotionBackgroundEffect)
 
 -   [Buttons](Buttons)
@@ -17,7 +15,6 @@
     -   [Blue Background Out button animation](Buttons/BlueBackgroundOutButtonAnimation)
     -   [Snake Border Button Animation](Buttons/SnakeBorderButtonAnimation)
     -   [Snake Bottom Border on Hover](Buttons/SnakeBottomBorderOnHover)
-    -   [Scroll To Top Button](Buttons/scrollToTopButton)
     -   [Glowing Gradient](Buttons/Glowinggradient)
     -   [Mouse Enter Button](Buttons/MouseEnterButton)
     -   [Side Top Border on Hover](Buttons/Sidetopborderonhover)
@@ -31,13 +28,16 @@
     -   [Card Pop Up Animation On Hover](Cards/cardPopuponhover)
 
 -   [Carousels](Carousel)
-    -   [Card Carousel Component](Carousel/CardCarousel)
 
--   [Scrollspy](Scrollspy)
-    -   [Scrollspy](Scrollspy)
+    -   [Card Carousel Component](Carousel/CardCarousel)
    
--   [Smooth Scroll](Smooth-Scroll)
-    -   [Smooth Scroll](Smooth-Scroll)
+-   [Scroll](Scroll)
+
+    -   [Smooth Scroll](Scroll/Smooth-Scroll)
+    -   [Scrollspy](Scroll/Scrollspy)
+    -   [SmoothPageScroll](Scroll/SmoothPageScroll)
+    -   [Animate on Scroll](Scroll/AnimateOnScroll(AOS))
+    -   [Scroll To Top Button](Scroll/scrollToTopButton)
     
 -   [Forms](Forms)
 
