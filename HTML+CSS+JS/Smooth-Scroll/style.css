@@ -14,8 +14,7 @@
   height: 100vh;
   background-color: beige;
 }
-.nav-link:hover
-{
-    background-color:rgba(100, 148, 237, 0.555);
-    border-radius: 5px;
+.nav-link:hover {
+  background-color: rgba(100, 148, 237, 0.555);
+  border-radius: 5px;
 }
