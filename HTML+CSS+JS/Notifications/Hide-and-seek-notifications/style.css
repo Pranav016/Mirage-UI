@@ -1,20 +1,21 @@
-@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
-*{
+@import url("https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap");
+* {
   margin: 0;
   padding: 0;
   user-select: none;
   box-sizing: border-box;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
-html,body{
+html,
+body {
   height: 100%;
 }
-body{
+body {
   display: grid;
   place-items: center;
   overflow: hidden;
 }
-button{
+button {
   padding: 8px 16px;
   font-size: 25px;
   font-weight: 500;
@@ -29,56 +30,56 @@ button{
   position: absolute;
   right: 0px;
   border-radius: 43% 0 0 56%;
-  top:26px;
+  top: 26px;
   border: 1px solid white;
 }
-button:hover{
+button:hover {
   background-color: #54b6f7;
 }
-.alert{
+.alert {
   background: #5addd2;
   padding: 20px 40px;
   min-width: 420px;
   position: absolute;
   right: 0px;
-  top:26px;
+  top: 26px;
   border-radius: 27px 0 0 27px;
   border-left: 1px solid #5addd2;
   overflow: hidden;
   opacity: 0;
   pointer-events: none;
-  height:223px;
-  width:20px;
+  height: 223px;
+  width: 20px;
 }
-.alert.showAlert{
+.alert.showAlert {
   opacity: 1;
   pointer-events: auto;
 }
-.show{
+.show {
   animation: show_slide 1s ease forwards;
 }
 @keyframes show_slide {
-  0%{
+  0% {
     transform: translateX(100%);
   }
- 
-  100%{
+
+  100% {
     transform: translateX(0px);
   }
 }
-.hide{
+.hide {
   animation: hide_slide 1s ease forwards;
 }
 @keyframes hide_slide {
-  0%{
+  0% {
     transform: translateX(0px);
   }
 
-  100%{
+  100% {
     transform: translateX(100%);
   }
 }
-.alert .fa-exclamation-circle{
+.alert .fa-exclamation-circle {
   position: absolute;
   left: 20px;
   top: 50%;
@@ -86,12 +87,12 @@ button:hover{
   color: #0077ff;
   font-size: 30px;
 }
-.alert .msg{
+.alert .msg {
   padding: 0 20px;
   font-size: 18px;
   color: #4b1ba9;
 }
-.alert .close-btn{
+.alert .close-btn {
   position: absolute;
   right: 0px;
   top: 10%;
@@ -105,10 +106,10 @@ button:hover{
   align-items: center;
   justify-content: center;
 }
-.alert .close-btn:hover{
+.alert .close-btn:hover {
   background: #54b6f7;
 }
-.alert .close-btn .fas{
+.alert .close-btn .fas {
   color: #0213ff;
   font-size: 22px;
   line-height: 40px;
