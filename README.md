@@ -122,6 +122,18 @@ git clone https://github.com/<your_GitHub_username>/Mirage-UI.git
 
 <hr>
 
+## Open Source Events Project is associated with:
+
+<img align="right" src="assets/event1.png" width = "120" height = "100"><b>1. PClub Summer of Code</b>
+
+- PSOC( PClub Summer of Code ) is the 2 month long Open Source program during summers conducted by Programming Club, UIET, with an aim to help beginners get started with Open Source Development while encouraging Diversity .
+
+<img align="right" src="assets/event2.png" width = "120" height = "100"><b>2. Let's Grow More Summer of Code</b>
+
+- LGM-SOC ( Let's Grow More Summer of Code ) is a one month long Open Source program organized by LetsGrowMore Community to encourage student participation in open source software development under the guidance of mentors from the open source community. 
+ 
+<hr>
+
 ## Maintainers ✨
 <table>
   <tr>
@@ -170,6 +182,8 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 [![Stargazers over time](https://starchart.cc/ALPHAVIO/Mirage-UI.svg)](https://starchart.cc/ALPHAVIO/Mirage-UI)
 
 <hr>
+
+
 
 <div align="center">
     <h3><a href="https://github.com/ALPHAVIO/Mirage-UI/blob/master/LICENSE">Licensed under MIT LICENSE</a></h3>
