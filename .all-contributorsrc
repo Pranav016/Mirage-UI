@@ -111,6 +111,15 @@
         "code",
         "doc"
       ]
+    },
+    {
+      "login": "jay-2000",
+      "name": "Jay Parmar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61630442?v=4",
+      "profile": "https://jay-2000.github.io/portfolio/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,

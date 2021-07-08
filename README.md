@@ -8,7 +8,7 @@
 
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 </div>
@@ -165,6 +165,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Sanyam17-beep"><img src="https://avatars.githubusercontent.com/u/84903641?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sanyam17-beep</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=Sanyam17-beep" title="Code">💻</a> <a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=Sanyam17-beep" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/puneetkaur2929"><img src="https://avatars.githubusercontent.com/u/80326308?v=4?s=100" width="100px;" alt=""/><br /><sub><b>puneetkaur2929</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=puneetkaur2929" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/siddhi-244"><img src="https://avatars.githubusercontent.com/u/69195262?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Siddhi Bhanushali </b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=siddhi-244" title="Code">💻</a> <a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=siddhi-244" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://jay-2000.github.io/portfolio/"><img src="https://avatars.githubusercontent.com/u/61630442?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jay Parmar</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=jay-2000" title="Documentation">📖</a></td>
   </tr>
 </table>
 
