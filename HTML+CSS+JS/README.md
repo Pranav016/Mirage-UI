@@ -33,6 +33,7 @@
     -   [Card Image Zoom on hover animation](Cards/CardImageZoomAnimation)
     -   [Card Pop Up Animation On Hover](Cards/cardPopuponhover)
     -   [Flip Card Animation on Hover](Cards/FlipCardAnimation)
+    -   [Animated Card Stack on Hover](Cards/AnimatedCardStacksAnimation)
 
 -   [Carousels](Carousel)
 
