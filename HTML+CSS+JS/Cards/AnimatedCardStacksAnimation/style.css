@@ -29,9 +29,8 @@ p {
   font-weight: 300;
   margin: 0;
   padding: 0;
-  color:red;
+  color: red;
 }
-
 
 header.hero {
   background: rgba(255, 255, 255, 0.6);
@@ -42,7 +41,7 @@ header.hero {
 }
 header.hero h1 {
   font-size: 3em;
-  color:red;
+  color: red;
   margin: 0 0 5px;
 }
 hr {
@@ -67,7 +66,7 @@ ul.cards li.title h2 {
   font-weight: 700;
 }
 ul.cards li.card {
-  background:blueviolet;
+  background: blueviolet;
   overflow: hidden;
   height: 200px;
   width: 200px;

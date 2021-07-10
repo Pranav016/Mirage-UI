@@ -15,4 +15,3 @@ jQuery(document).ready(function ($) {
     $(this).toggleClass("transition");
   });
 });
-
