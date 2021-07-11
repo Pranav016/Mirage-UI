@@ -1,0 +1,21 @@
+#one
+{
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    flex-direction: column;
+    justify-content:flex-end;
+    align-items:center;
+    background-color: bisque;
+}
+.padding
+{
+    height: 25vh;
+    width: 100vw;
+}
+#two
+{
+    background-color: cadetblue;
+    height: 100vh;
+    width: 100vw;
+}
