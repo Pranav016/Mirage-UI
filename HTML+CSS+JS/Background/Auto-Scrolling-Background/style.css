@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.text
+{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    z-index: 1;
+    font-size:70px;
+    font-family: cursive;
+    color: white;
+}
+.container {
+  overflow: hidden;
+  height: 100vh;
+  width: 100vw;
+  position: relative;
+}
+
+.sliding-background {
+    z-index: -1;
+  background: url("./assets/MUI\ Logo.png")
+  , linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),
+  repeat;
+  background-blend-mode: overlay;
+  height: 150vh;
+  width: 100vw;
+  animation: slide 30s linear infinite;
+}
+
+@keyframes slide {
+  0% {
+    transform: translate3d(0, 0, 0);
+  }
+  100% {
+    transform: translate3d(0, -50vh, 0);
+  }
+}
