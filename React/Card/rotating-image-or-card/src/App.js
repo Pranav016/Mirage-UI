@@ -1,10 +1,8 @@
-import React from 'react';
-import Card from './Card';
+import React from "react";
+import Card from "./Card";
 
 const App = () => {
-  return (
-      <Card />
-  );
-}
+  return <Card />;
+};
 
 export default App;
