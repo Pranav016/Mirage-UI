@@ -65,6 +65,7 @@
 -   [Image-Animations](Image-Animations)
 
     -   [Image Bounce Animation](Image-Animations/ImageBounceAnimation)
+    -   [Image Overlay Effects](Image-Animations/ImageOverlayEffects)
 
 -   [Navigation Bar](Navigation-Bar)
 
