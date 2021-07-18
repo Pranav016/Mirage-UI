@@ -6,7 +6,6 @@
 
     -   [Animate.css](Background/Animate.css)
     -   [Background-motion-mouse-move](Background/Background-motion-mouse-move)
-    -   [Linear-Icon-Expansion-Animation](Buttons/Linear-Icon-Expansion-Animation)
     -   [Fake Loader](Background/FakeLoader)
     -   [Parallax](Background/Parallax)
     -   [Particle JS](Background/Particle)
@@ -20,6 +19,8 @@
     -   [Snake Border Button Animation](Buttons/SnakeBorderButtonAnimation)
     -   [Snake Bottom Border on Hover](Buttons/SnakeBottomBorderOnHover)
     -   [Glowing Gradient](Buttons/Glowinggradient)
+    -   [Icon-hover-expansion](Buttons/Icon-hover-expansion)
+    -   [Linear-Icon-Expansion-Animation](Buttons/Linear-Icon-Expansion-Animation)
     -   [Lines Button Animation](Buttons/LinesButtonAnimation)
     -   [Mouse Enter Button](Buttons/MouseEnterButton)
     -   [Side Top Border on Hover](Buttons/Sidetopborderonhover)
