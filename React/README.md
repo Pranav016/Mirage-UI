@@ -2,8 +2,11 @@
 
 ## Table of contents -
 
+- [Accordion](Accordion)
+    - [Accordion-Component](Accordion/accordion-component)
+
 -   [Modal](Modal)  
-    - [Modal-component](modal-component)
+    - [Modal-component](Modal/modal-component)
 
 -   [Navigation Bar](Navigation-Bar)  
     - [TopDownAnimation-ResponsiveNavbar](Navigation-Bar/TopDownAnimation-ResponsiveNavbar)
