@@ -1,5 +1,5 @@
-# Rotating Image / Card
-Rotating Image / Card Component
+# Information Card
+Information Card Component
 
 ## Demo -
 
