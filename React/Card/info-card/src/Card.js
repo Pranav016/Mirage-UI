@@ -1,6 +1,6 @@
 import React from "react";
 import "./card.css";
-import CardIndividual  from "./assets/CardIndividual";
+import CardIndividual from "./assets/CardIndividual";
 
 const Card = () => {
   return (

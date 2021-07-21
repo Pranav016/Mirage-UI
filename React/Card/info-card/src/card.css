@@ -1,7 +1,6 @@
 body {
   background: #333;
   margin: 0;
-
 }
 
 .container {
@@ -17,7 +16,6 @@ body {
   width: 30vw;
   height: 50vh;
   position: relative;
-  
 }
 
 .card {
@@ -47,10 +45,9 @@ body {
   justify-content: center;
   align-items: center;
 }
-.card-image > img
-{
-    width: 100%;
-    height: auto;
+.card-image > img {
+  width: 100%;
+  height: auto;
 }
 
 .card-image:hover {
@@ -74,7 +71,7 @@ body {
   height: 120px;
   z-index: 1;
   padding: 10px;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .details > h2 {
