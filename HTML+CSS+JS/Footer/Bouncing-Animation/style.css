@@ -38,30 +38,30 @@ body {
   }
 }
 @keyframes swing {
-    15% {
-        -webkit-transform: translateY(10px);
-        transform: translateY(10px);
-      }
-      30% {
-        -webkit-transform: translateY(-10px);
-        transform: translateY(-10px);
-      }
-      50% {
-        -webkit-transform: translateY(5px);
-        transform: translateY(5px);
-      }
-      65% {
-        -webkit-transform: translateY(-5px);
-        transform: translateY(-5px);
-      }
-      80% {
-        -webkit-transform: translateY(3px);
-        transform: translateY(3px);
-      }
-      100% {
-        -webkit-transform: translateY(0);
-        transform: translateY(0);
-      }
+  15% {
+    -webkit-transform: translateY(10px);
+    transform: translateY(10px);
+  }
+  30% {
+    -webkit-transform: translateY(-10px);
+    transform: translateY(-10px);
+  }
+  50% {
+    -webkit-transform: translateY(5px);
+    transform: translateY(5px);
+  }
+  65% {
+    -webkit-transform: translateY(-5px);
+    transform: translateY(-5px);
+  }
+  80% {
+    -webkit-transform: translateY(3px);
+    transform: translateY(3px);
+  }
+  100% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
 }
 .swing:hover {
   -webkit-animation: swing 1s ease;
