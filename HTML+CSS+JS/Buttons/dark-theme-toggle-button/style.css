@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+  }
+  main{
+    margin: 5vh 15%;
+  }
+  h1{
+    font-size: 40px;
+    font-weight: 400;
+    text-align: center;
+  }
+  p{
+    text-align: justify;
+    font-size: 18px;
+  }
+  label{
+      position: absolute;
+      width: 45px;
+      height: 22px;
+      left: 90vh;
+      top: 41vh;
+      border: 2px solid;
+      border-radius: 20px;
+  }
+  label:before{
+      position: absolute;
+      content: '';
+      width:20px;
+      height: 20px;
+      left: 1px;
+      top: 1px;
+      border-radius: 50%;
+      background: #000;
+      cursor: pointer;
+      transition: 0.4s;
+  }
+  label.active:before{
+      left: 24px;
+      background: #fff;
+  }
+  body.night{
+      background: #000;
+      color: #fff;
+  }
+strong{
+   color: red;
+}
+strong.night{
+    color: greenyellow;
+}
+em{
+    color: blue;
+}
+em.night{
+    color: rgb(255, 145, 0);
+}
