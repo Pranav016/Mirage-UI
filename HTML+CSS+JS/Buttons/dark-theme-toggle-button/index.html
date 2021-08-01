@@ -1,34 +1,42 @@
-  
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="style.css">
-  <title>Document</title>
-</head>
-<body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Document</title>
+  </head>
+  <body>
     <header>
-      <label  id="dark-change"></label>
+      <label id="dark-change"></label>
     </header>
     <main>
-        <h1><strong> LGM-SOC'21</strong></h1>
-        <div class="respon">
-          <p><em>Participant at LGM-SOC'21</em> Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat deleniti obcaecati facere enim at veritatis doloremque, dolor corrupti iure? Quasi laudantium harum aliquid dolorem, facere omnis eveniet perspiciatis quae adipisci Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa mollitia eius perferendis! Consequuntur labore, nam corporis quidem quibusdam quos doloremque a, aut similique obcaecati ipsum id vero. Error, ipsa officiis.</p>
-        </div>
+      <h1><strong> LGM-SOC'21</strong></h1>
+      <div class="respon">
+        <p>
+          <em>Participant at LGM-SOC'21</em> Lorem ipsum dolor sit amet
+          consectetur adipisicing elit. Quaerat deleniti obcaecati facere enim
+          at veritatis doloremque, dolor corrupti iure? Quasi laudantium harum
+          aliquid dolorem, facere omnis eveniet perspiciatis quae adipisci Lorem
+          ipsum dolor sit amet, consectetur adipisicing elit. Ipsa mollitia eius
+          perferendis! Consequuntur labore, nam corporis quidem quibusdam quos
+          doloremque a, aut similique obcaecati ipsum id vero. Error, ipsa
+          officiis.
+        </p>
+      </div>
     </main>
-      <script>
-          var content = document.getElementsByTagName('body')[0];
-          var content1 = document.getElementsByTagName('strong')[0];
-          var content2 = document.getElementsByTagName('em')[0];
-          var darkMode = document.getElementById('dark-change');
-          darkMode.addEventListener('click', function(){
-              darkMode.classList.toggle('active');
-              content.classList.toggle('night');
-              content1.classList.toggle('night');
-              content2.classList.toggle('night');
-          })
-      </script>
-</body>
+    <script>
+      var content = document.getElementsByTagName("body")[0];
+      var content1 = document.getElementsByTagName("strong")[0];
+      var content2 = document.getElementsByTagName("em")[0];
+      var darkMode = document.getElementById("dark-change");
+      darkMode.addEventListener("click", function () {
+        darkMode.classList.toggle("active");
+        content.classList.toggle("night");
+        content1.classList.toggle("night");
+        content2.classList.toggle("night");
+      });
+    </script>
+  </body>
 </html>
