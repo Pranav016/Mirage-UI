@@ -1,44 +1,48 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <script src="https://kit.fontawesome.com/203ba62f04.js" crossorigin="anonymous"></script>
-     <title>Document</title>
-</head>
-<body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <script
+      src="https://kit.fontawesome.com/203ba62f04.js"
+      crossorigin="anonymous"
+    ></script>
+    <title>Document</title>
+  </head>
+  <body>
     <div class="navbar-wrapper">
-        <div class="navbar">
-          <a href="#" class="navbar-link">
-            <i class="fab fa-whatsapp"></i>
-          </a>
-          <a href="#" class="navbar-link">
-            <i class="fab fa-facebook"></i>
-          </a>
-         <a href="#" class="navbar-link">
-            <i class="fas fa-phone-square"></i>
-          </a>
-          <a href="#" class="navbar-link">
-            <i class="fab fa-discord"></i>
-          </a>
-          <a href="#" class="navbar-link">
-            <i class="fab fa-github"></i>
-          </a>
-          <a href="#" class="navbar-link">
-            <i class="fab fa-telegram"></i>
-          </a>
-        </div>
-        
-        <div class="navbar-btn">
-          <i class="fas fa-plus"></i>
-        </div>
+      <div class="navbar">
+        <a href="#" class="navbar-link">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+        <a href="#" class="navbar-link">
+          <i class="fab fa-facebook"></i>
+        </a>
+        <a href="#" class="navbar-link">
+          <i class="fas fa-phone-square"></i>
+        </a>
+        <a href="#" class="navbar-link">
+          <i class="fab fa-discord"></i>
+        </a>
+        <a href="#" class="navbar-link">
+          <i class="fab fa-github"></i>
+        </a>
+        <a href="#" class="navbar-link">
+          <i class="fab fa-telegram"></i>
+        </a>
       </div>
-      
-      <script>document.querySelector(".navbar-btn").addEventListener("click", () => {
-  
+
+      <div class="navbar-btn">
+        <i class="fas fa-plus"></i>
+      </div>
+    </div>
+
+    <script>
+      document.querySelector(".navbar-btn").addEventListener("click", () => {
         document.querySelector(".navbar-wrapper").classList.toggle("change");
-     });</script>
-</body>
+      });
+    </script>
+  </body>
 </html>
