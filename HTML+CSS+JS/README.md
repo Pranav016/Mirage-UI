@@ -27,6 +27,7 @@
     -   [Mouse Enter Button](Buttons/MouseEnterButton)
     -   [Side Top Border on Hover](Buttons/Sidetopborderonhover)
     -   [Thin Button](Buttons/ThinButton)
+    -   [circular-icon-expansion](Buttons/circular-icon-expansion)   
     -   [Dark-theme-toggle-button](Buttons/dark-theme-toggle-button)   
     -   [Elevation on Hover Button](Buttons/ElevationOnHoverAnimationButton)
     -   [Neumorphic Style Button](Buttons/NeumorphicStyleButton)
