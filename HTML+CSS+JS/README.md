@@ -73,6 +73,10 @@
     -   [Image Bounce Animation](Image-Animations/ImageBounceAnimation)
     -   [Image Overlay Effects](Image-Animations/ImageOverlayEffects)
 
+-   [Image-Gallery](Image-Gallery)
+
+    -   [Responsive Image Gallery](Image-Gallery/ResponsiveImageGallery)
+
 -   [Navigation Bar](Navigation-Bar)
 
     -   [Responsive Bootstrap Navbar](Navigation-Bar/ResponsiveBootstrapNavbar)
