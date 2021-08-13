@@ -48,6 +48,7 @@
 
     -   [Card Carousel Component](Carousel/CardCarousel)
     -   [Image-view-stack-carousel](Carousel/Image-view-stack-carousel)
+    -   [Infinitely Moving Carousel/Slider](Carousel/InfiniteMovingCarousel)
 
 -   [Drag and Drop](Drag-&-Drop-feature)
 
