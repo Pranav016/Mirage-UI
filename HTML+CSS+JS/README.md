@@ -104,3 +104,6 @@
 -   [Footer](Footer)
 
     -   [Bouncing Animation](Footer/Bouncing-Animation)
+
+-   [Progress Bars](Progress-Bars)
+    -  [Animated Progress Bar](Progress-Bars/Animated-Progress-Bar)
