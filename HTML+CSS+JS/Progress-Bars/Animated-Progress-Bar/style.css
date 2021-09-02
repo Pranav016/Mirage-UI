@@ -1,20 +1,18 @@
+* {
+  font-family: sans-serif;
+}
 
-  *{
-    font-family: sans-serif;
-  }
+#myprogress {
+  width: 80%;
+  background: grey;
+  margin: auto;
+  border-radius: 50px;
+}
 
-  #myprogress{
-    width: 80%;
-    background: grey;
-    margin: auto;
-    border-radius:50px;
-  }
-
-  #mybar{
-    width: 1%;
-    background: green;
-    color: white;
-    text-align: center;
-    border-radius:50px;
-  }
-
+#mybar {
+  width: 1%;
+  background: green;
+  color: white;
+  text-align: center;
+  border-radius: 50px;
+}
