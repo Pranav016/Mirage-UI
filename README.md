@@ -8,7 +8,7 @@
 
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 </div>
@@ -122,12 +122,25 @@ git clone https://github.com/<your_GitHub_username>/Mirage-UI.git
 
 <hr>
 
+## Open Source Events Project is associated with:
+
+<img align="right" src="assets/event1.png" width = "120" height = "100"><b>1. PClub Summer of Code</b>
+
+- PSOC( PClub Summer of Code ) is the 2 month long Open Source program during summers conducted by Programming Club, UIET, with an aim to help beginners get started with Open Source Development while encouraging Diversity .
+
+<img align="right" src="assets/event2.png" width = "120" height = "100"><b>2. Let's Grow More Summer of Code</b>
+
+- LGM-SOC ( Let's Grow More Summer of Code ) is a one month long Open Source program organized by LetsGrowMore Community to encourage student participation in open source software development under the guidance of mentors from the open source community. 
+ 
+<hr>
+
 ## Maintainers ✨
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Pranav016"><img src="https://avatars.githubusercontent.com/u/54665036?s=460&u=1bff30cf96a1502a7abd09755f179197007bc345&v=4" width="100px;" alt=""/><br /><sub><b>Pranav Mendiratta</b></sub></a><br /><a href="https://github.com/ALPHAVIO/WordNook/commits?author=Pranav016" title="Code">💻</a><a href="https://github.com/ALPHAVIO/WordNook/commits?author=Pranav016" title="Documentation">📖</a> <a href="https://github.com/ALPHAVIO/WordNook/commits?author=Pranav016" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://github.com/theBeginner86"><img src="https://avatars.githubusercontent.com/u/73700530?v=4" width="100px;" alt=""/><br /><sub><b>Pranav Singh</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=theBeginner86" title="Code">💻</a><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=theBeginner86" title="Documentation">📖</a> <a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=theBeginner86" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://github.com/Ayush0730"><img src="https://avatars.githubusercontent.com/u/68139755?v=4" width="100px;" alt=""/><br /><sub><b>Ayush Jain</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=Ayush0730" title="Code">💻</a><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=Ayush0730" title="Documentation">📖</a> <a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=Ayush0730" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/riasenpai"><img src="https://avatars.githubusercontent.com/u/67195436?v=4" width="100px;" alt=""/><br /><sub><b>Ria Tyagi</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=riasenpai" title="Code">💻</a><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=riasenpai" title="Documentation">📖</a> <a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=riasenpai" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 
@@ -151,6 +164,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/akshikamudgal"><img src="https://avatars.githubusercontent.com/u/66902249?v=4?s=100" width="100px;" alt=""/><br /><sub><b>akshikamudgal</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=akshikamudgal" title="Code">💻</a> <a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=akshikamudgal" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/Sanyam17-beep"><img src="https://avatars.githubusercontent.com/u/84903641?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sanyam17-beep</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=Sanyam17-beep" title="Code">💻</a> <a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=Sanyam17-beep" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/puneetkaur2929"><img src="https://avatars.githubusercontent.com/u/80326308?v=4?s=100" width="100px;" alt=""/><br /><sub><b>puneetkaur2929</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=puneetkaur2929" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/siddhi-244"><img src="https://avatars.githubusercontent.com/u/69195262?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Siddhi Bhanushali </b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=siddhi-244" title="Code">💻</a> <a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=siddhi-244" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://jay-2000.github.io/portfolio/"><img src="https://avatars.githubusercontent.com/u/61630442?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jay Parmar</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=jay-2000" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/ujju20"><img src="https://avatars.githubusercontent.com/u/64632969?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ujjawal Sharma</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=ujju20" title="Code">💻</a> <a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=ujju20" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Khushi-agarwal"><img src="https://avatars.githubusercontent.com/u/76625662?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Khushi Agarwal</b></sub></a><br /><a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=Khushi-agarwal" title="Code">💻</a> <a href="https://github.com/ALPHAVIO/Mirage-UI/commits?author=Khushi-agarwal" title="Documentation">📖</a></td>
   </tr>
 </table>
 
@@ -168,6 +186,8 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 [![Stargazers over time](https://starchart.cc/ALPHAVIO/Mirage-UI.svg)](https://starchart.cc/ALPHAVIO/Mirage-UI)
 
 <hr>
+
+
 
 <div align="center">
     <h3><a href="https://github.com/ALPHAVIO/Mirage-UI/blob/master/LICENSE">Licensed under MIT LICENSE</a></h3>
